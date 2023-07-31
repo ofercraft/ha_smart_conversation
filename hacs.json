@@ -1,5 +1,5 @@
 {
-  "name": "SmartIR",
-  "homeassistant": "0.115.0",
+  "name": "Smart",
+  "homeassistant": "0.1",
   "persistent_directory": "codes"
 }
