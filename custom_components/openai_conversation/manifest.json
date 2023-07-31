@@ -1,6 +1,6 @@
 {
   "domain": "openaia_conversation",
-  "name": "OpenAIa Conversation",
+  "name": "OpenAI Conversations",
   "codeowners": ["@ofercraft"],
   "config_flow": true,
   "dependencies": ["conversation"],
