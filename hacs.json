@@ -1,5 +1,5 @@
 {
-  "name": "Smart",
-  "homeassistant": "0.1",
+  "name": "Smarts",
+  "homeassistant": "0.154",
   "persistent_directory": "codes"
 }
