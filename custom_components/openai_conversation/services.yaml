@@ -4,7 +4,7 @@ generate_image:
       required: true
       selector:
         config_entry:
-          integration: openai_conversation
+          integration: openai_conversations
     prompt:
       required: true
       selector:
