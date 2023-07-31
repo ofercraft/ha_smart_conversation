@@ -1,5 +1,5 @@
 {
-  "name": "Smarts",
-  "homeassistant": "0.154",
+  "name": "OpenAI Conversations",
+  "homeassistant": "0.115.0",
   "persistent_directory": "codes"
 }
